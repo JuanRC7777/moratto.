@@ -1,2 +1,2 @@
 # moratto.
-pagina web de tienda de accesorios en linea
+pagina web para exponer el catalogo de una tienda de accesorios
